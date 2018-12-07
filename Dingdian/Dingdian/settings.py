@@ -17,11 +17,11 @@ DEFAULT_REQUEST_HEADERS = {
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
 }
 
-MYSQL_HOSTS = "47.107.136.195"
-MYSQL_USER = "luoyanhan"
-MYSQL_PASSWORD = '12345678'
-MYSQL_PORT = 3306
-MYSQL_DB = "xiaoshuo"
+MYSQL_HOSTS = ""
+MYSQL_USER = ""
+MYSQL_PASSWORD = ''
+MYSQL_PORT = 
+MYSQL_DB = ""
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
